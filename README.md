@@ -1,4 +1,4 @@
-# AudioBook_Customer_Analytics
+# AudioBook_Customer_Analytics - WIP
 I built a machine learning model to predict customer purchase behavior using an audiobook dataset. The goal was to identify users most likely to convert within the next six months, enabling targeted marketing and improving revenue.
 
 I developed an end-to-end pipeline in Python using NumPy, Pandas, and scikit-learn. The workflow included data cleaning, feature engineering, and statistical feature selection using ANOVA F-tests (f_classif) to retain the most predictive variables (e.g., engagement metrics, purchase history, and average listening duration). I split the dataset into training, validation, and test sets to ensure unbiased evaluation.
